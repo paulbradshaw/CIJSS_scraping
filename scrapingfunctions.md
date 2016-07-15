@@ -1,6 +1,8 @@
 # Using scraping functions in Google Sheets
 
-![](https://s3.amazonaws.com/titlepages.leanpub.com/scrapingforjournalists/large?1458984302.png)
+![](https://raw.githubusercontent.com/paulbradshaw/CIJSS_scraping/master/generating_urls_excel.png)
+
+*The image above shows how to generate a series of URLs for a scraper*
 
 *Resources for a short class introducing scraping*. You can see [an example spreadsheet using these techniques here](https://docs.google.com/spreadsheets/d/1jhGt86x-iFbBTBvs3VRUI6sj-iFPUUXCoAY9mp4bHiM/edit#gid=938670368)
 
