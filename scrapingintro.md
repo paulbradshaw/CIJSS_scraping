@@ -22,3 +22,10 @@ The slides from this talk will appear here soon.
 * [Morph.io](https://morph.io/)
 
 [Other scraping tools can be found in my bookmarks](http://pinboard.in/u:paulbradshaw/t:scraping+tools)
+
+## Law and ethics
+
+* [Ethics in data journalism: mass data gathering – scraping, FOI and deception](https://onlinejournalismblog.com/2013/09/18/ethics-in-data-journalism-mass-data-gathering-scraping-foi-and-deception/)
+* [TO SCRAPE OR NOT TO SCRAPE: TECHNICAL AND ETHICAL CHALLENGES OF COLLECTING DATA OFF THE WEB](http://www.storybench.org/to-scrape-or-not-to-scrape-the-technical-and-ethical-challenges-of-collecting-data-off-the-web/)
+* [Resources on ethics and scraping bookmarked here](http://pinboard.in/u:paulbradshaw/t:scraping+ethics)
+* [Resources on law and scraping bookmarked here](http://pinboard.in/u:paulbradshaw/t:scraping+law)
