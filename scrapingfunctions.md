@@ -1,4 +1,4 @@
-# Introduction to Scraping
+# Using scraping functions in Google Sheets
 
 ![](https://s3.amazonaws.com/titlepages.leanpub.com/scrapingforjournalists/large?1458984302.png)
 
