@@ -1,5 +1,7 @@
 # Introduction to Scraping
 
+![](https://s3.amazonaws.com/titlepages.leanpub.com/scrapingforjournalists/large?1458984302.png)
+
 *Resources for a short class introducing scraping*. You can see [an example spreadsheet using these techniques here](https://docs.google.com/spreadsheets/d/1jhGt86x-iFbBTBvs3VRUI6sj-iFPUUXCoAY9mp4bHiM/edit#gid=938670368)
 
 Start here: [this is a webpage](http://www.numbeo.com/pollution/country_result.jsp?country=United+Kingdom) that publishes data on various types of pollution. 
@@ -138,3 +140,4 @@ The third ingredient is also `2` (column 2)
 So it will grab the contents of the second row, second column, of the table we grab with `IMPORTHTML`!
 
 Now the results occupy only one row, and our job is made easier.
+
