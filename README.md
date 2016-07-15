@@ -4,9 +4,13 @@
 
 *Resources for a short class introducing scraping*. You can see [an example spreadsheet using these techniques here](https://docs.google.com/spreadsheets/d/1jhGt86x-iFbBTBvs3VRUI6sj-iFPUUXCoAY9mp4bHiM/edit#gid=938670368)
 
-Start here: [this is a webpage](http://www.numbeo.com/pollution/country_result.jsp?country=United+Kingdom) that publishes data on various types of pollution. 
+**The techniques outlined here are covered in more detail in the first chapters of the book [Scraping for Journalists](https://leanpub.com/scrapingforjournalists). The book also covers scraping using tools like OutWit Hub, and more advanced techniques for scraping databases, spreadsheets and PDFs.**
+
+**Start here**: [this is a webpage](http://www.numbeo.com/pollution/country_result.jsp?country=United+Kingdom) that publishes data on various types of pollution. 
 
 Look at the URL: it has a pattern: `http://www.numbeo.com/pollution/country_result.jsp?country=United+Kingdom`
+
+(for another example, see [DEFRA's page on air monitoring](https://uk-air.defra.gov.uk/latest/currentlevels) and try using the *filter by region* option)
 
 Click on one of the city links: [this is the page for London](http://www.numbeo.com/pollution/city_result.jsp?country=United+Kingdom&city=London). Some things to look for:
 * The page has a similar **structure** to the last one - that's a pattern that helps us.
