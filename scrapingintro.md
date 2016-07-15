@@ -1,6 +1,6 @@
 # Scraping for stories
 
-The slides from this talk will appear here soon.
+[The slides from this talk are on Slideshare here](http://www.slideshare.net/onlinejournalist/scraping-for-stories)
 
 ## Examples of scraping being used in journalism
 
