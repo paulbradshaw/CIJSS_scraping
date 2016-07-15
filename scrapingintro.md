@@ -1,4 +1,4 @@
-## Scraping for stories
+# Scraping for stories
 
 The slides from this talk will appear here soon.
 
