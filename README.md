@@ -7,7 +7,7 @@ This repository contains resources related to the sessions on scraping at the Ce
 ## Slides and notes
 
 * The [first presentation introducing scraping and examples of its use in journalism is on Slideshare here](https://www.slideshare.net/onlinejournalist/scraping-in-journalism-an-introduction)
-* The [second presentation using IFTTT and Google Sheets to explore scraping techniques is on Slideshare here](http://www.slideshare.net/onlinejournalist/scraping-in-60-minutes)
+* The [second presentation using IFTTT and Google Sheets to explore scraping techniques is on Slideshare here](https://www.slideshare.net/onlinejournalist/scraping-in-60-minutes-103417415)
 * [Here's the tutorial on using scraping function in Google Sheets](https://github.com/paulbradshaw/CIJSS_scraping/blob/master/scrapingfunctions.md)
 
 ## Examples
