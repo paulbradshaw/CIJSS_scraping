@@ -14,6 +14,24 @@ This repository contains resources related to the sessions on scraping at the Ce
 * [Here's the tutorial on using scraping function in Google Sheets](https://github.com/paulbradshaw/CIJSS_scraping/blob/master/scrapingfunctions.md)
 * You can also [follow this tutorial by Dan Wainwright](https://onlinejournalismblog.com/2016/11/29/how-the-bbc-england-data-unit-scraped-airport-noise-complaints/)
 
+## Scraping in Outwit Hub
+
+OutWit Hub is particularly useful for: 
+
+* Situations where data is spread across a series of pages (e.g. with 'next' links)
+* Situations where you have to log in, or where cookies may be involved
+* Bulk-downloading of documents or images for analysis on your own computer
+
+However, the free version only scrapes 100 rows of data. You need to pay for the Pro version.
+
+## Scraping in Workbench
+
+Workbench has 3 scraping tools: a HTML table scraper, a webpage scraper, and a Twitter scraper. 
+
+* [Here is an example of a HTML table scraper](https://app.workbenchdata.com/workflows/22852/) - note that new data overwrites old data (although a copy is stored), so it is not easy to combine all the results if old data disappears from the page.
+* [Here is an example of a webpage scraper](https://app.workbenchdata.com/workflows/22850/) - note that you need Xpath to extract specific parts
+* [Here is an example of a Twitter scraper](https://app.workbenchdata.com/workflows/25739/) - there are lots of additional tabs here which contain all sorts of analysis and cleaning you can do with Workbench
+
 ## Examples
 
 I keep examples of stories that have used scraping on Pinboard at [https://pinboard.in/u:paulbradshaw/t:scrapingeg](https://pinboard.in/u:paulbradshaw/t:scrapingeg) - you can drill down to more specific examples by adding `+` and a particular topic, e.g. [https://pinboard.in/u:paulbradshaw/t:scrapingeg+sport](https://pinboard.in/u:paulbradshaw/t:scrapingeg+sport) will narrow down to examples related to sport.
