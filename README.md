@@ -6,8 +6,11 @@ This repository contains resources related to the sessions on scraping at the Ce
 
 ## Slides and notes
 
-* The [first presentation introducing scraping and examples of its use in journalism is on Slideshare here](https://www.slideshare.net/onlinejournalist/scraping-in-journalism-an-introduction)
-* The [second presentation using IFTTT and Google Sheets to explore scraping techniques is on Slideshare here](https://www.slideshare.net/onlinejournalist/scraping-in-60-minutes-103417415)
+* The [first presentation introducing scraping ideas and tips, and examples of its use in journalism is on Slideshare here](https://www.slideshare.net/onlinejournalist/scraping-for-journalists-ideas-concepts-and-tips-cij-summer-school-2019)
+* The [second presentation on tools, using Outwit Hub and Workbench to explore scraping techniques is on Slideshare here](https://www.slideshare.net/onlinejournalist/scraping-in-60-minutes-cij-summer-school-2019)
+
+## Scraping in Google Sheets
+
 * [Here's the tutorial on using scraping function in Google Sheets](https://github.com/paulbradshaw/CIJSS_scraping/blob/master/scrapingfunctions.md)
 * You can also [follow this tutorial by Dan Wainwright](https://onlinejournalismblog.com/2016/11/29/how-the-bbc-england-data-unit-scraped-airport-noise-complaints/)
 
@@ -19,12 +22,9 @@ Here are some of the examples in the slides, with a little explanation:
 
 * Channel 4 News: [Why is the government website carrying fake jobs?](http://www.channel4.com/news/why-is-government-website-carrying-fake-jobs)  [(video)](https://www.youtube.com/watch?v=Efr-VEkwWoM) - this was based on a scrape of the Universal Jobmatch website by a non-journalist, who the reporter worked with.
 * Daily Mirror: [Which singer has the best vocal range in the UK - No, it's not who you think](http://www.mirror.co.uk/news/uk-news/singer-best-vocal-range-uk-4323076) - a great example of spotting a story in a website which isn't explicitly 'data': each page on MusicNotes.com contains the vocal range, among other pieces of information - see [this example](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0053340&intcmp=Recommended)
-* BuzzFeed: [The Tennis Racket]() - tennis results and odds needed to be scraped to establish unusual patterns
-* Private Eye: [Selling England (and Wales) by the pound](http://www.private-eye.co.uk/registry)
+* BuzzFeed: [The Tennis Racket](https://www.buzzfeednews.com/article/heidiblake/the-tennis-racket) - tennis results and odds needed to be scraped to establish unusual patterns
 * BBC News: [David Cameron's prime questioners](http://www.bbc.co.uk/news/uk-politics-26231651) - scraped Prime Minister's Questions to see which names appeared the most
-* O'Reilly Radar: [You're A Bigger Deal On Twitter Than You Think]() - based on a massive scrape of Twitter accounts to get a picture of the distribution of followers
-* FT: [Interactive: explore the statistical identity of every team at the World Cup](http://blogs.ft.com/ftdata/2014/06/11/interactive-explore-the-statistical-identity-of-every-team-at-the-world-cup/) - based on a scrape of player profiles from whoscored.com
-* Nature: [Scientific publishing: The inside track](http://www.nature.com/news/scientific-publishing-the-inside-track-1.15424) - based on a scrape of journal papers to identify the most prolific publishers
+* NOS [investigated the modelling industry](https://www.youtube.com/watch?v=DWRGqmywNYs&t=2m10s) using 25 different scrapers (around 20 were basic, a few needed more work)
 * New York Times: [Inside the Evolving Hotel Bathroom](http://www.nytimes.com/2013/12/15/travel/inside-the-evolving-hotel-bathroom.html?pagewanted=all) - based on a scrape of hotel reviews and a text analysis
 * Sunday Post: [Council sick days cost taxpayers £250m](http://paulbradshaw.tumblr.com/post/66183765520/council-sick-days-cost-taxpayers-250m-follow) - based on a scrape of Excel spreadsheets published by every council in Scotland.
 * Independent (also Guardian and others): [Seb Coe promised an 'uplifting torch relay to inspire a generation'. So are these really the role models to do it?](http://www.independent.co.uk/sport/olympics/seb-coe-promised-an-uplifting-torch-relay-to-inspire-a-generation-so-are-these-really-the-role-models-to-do-it-7815150.html) - one of the earliest stories based on a scrape of the Olympic Torch Relay website. All the stories to come from the investigation can be found in the free ebook [8000 Holes: How the Olympic Torch Relay Lost its Way](https://leanpub.com/8000holes)
@@ -64,10 +64,10 @@ Different challenges require different skills and tools. Broadly speaking factor
 ## Tools
 
 * [Outwit Hub](https://www.outwit.com/products/hub/)
+* [Workbench](http://workbenchdata.com)
 * [IFTTT](http://ifttt.com/)
 * [Open Refine](http://openrefine.org/download.html)
-* The Chrome extension [Web Scraper](http://webscraper.io/)
-* [QuickCode](https://quickcode.io/)
+* Chrome extensions including [Web Scraper](http://webscraper.io/) and [Grepsr](https://www.grepsr.com)
 * [Morph.io](https://morph.io/)
 
 [Other scraping tools can be found in my bookmarks](http://pinboard.in/u:paulbradshaw/t:scraping+tools)
