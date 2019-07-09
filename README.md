@@ -6,7 +6,7 @@ This repository contains resources related to the sessions on scraping at the Ce
 
 ## Slides and notes
 
-* The [first presentation introducing scraping ideas and tips, and examples of its use in journalism is on Slideshare here](https://www.slideshare.net/onlinejournalist/scraping-for-journalists-ideas-concepts-and-tips-cij-summer-school-2019)
+* The [first presentation introducing scraping ideas and tips, and examples of its use in journalism is on Slideshare here](https://www.slideshare.net/onlinejournalist/scraping-for-journalists-ideas-concepts-and-tips-cij-summer-school-2019-154455955)
 * The [second presentation on tools, using Outwit Hub and Workbench to explore scraping techniques is on Slideshare here](https://www.slideshare.net/onlinejournalist/scraping-in-60-minutes-cij-summer-school-2019)
 
 ## Scraping in Google Sheets
